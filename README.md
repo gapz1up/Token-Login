@@ -1,10 +1,11 @@
 # Token-Login
-Login to other Minecraft accounts with the SSID.
-1.8.9 Forge
+Login to a Minecraft account with a Session ID.
 
-Place in 'mods' folder
+Requires 1.8.9 Forge!
+
+Place in 'mods' folder (%appdata%\.minecraft\mods)
 Launch Minecraft
 Go into any server
-Type /login PASTE TOKEN
+Type /login YOUR SESSION ID
 
 Disconnect and reconnect.
